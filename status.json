@@ -5,7 +5,7 @@
   "shipped": 42609,
   "ships": "pending",
   "decided": null,
-  "why": null,
+  "why": "Built and conforming, and nobody has decided yet. It clears the usability floor comfortably, so this is work not done rather than a judgment made.",
   "license": "CC0-1.0",
   "conforms": true,
   "families": 7,
