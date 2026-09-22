@@ -12,15 +12,15 @@ collection rather than reuse its record only has to put the file back where the 
 
 | collection | tokens | what it is | where it came from |
 | --- | ---: | --- | --- |
-| `fw2` | 1,108,475,350 | FineWeb-2 Finnish — a web crawl nobody here made | [fineweb2-fin.parquet](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2/resolve/main/data/fin_Latn/train/000_00000.parquet) |
-| `wiki:fi` | 143,872,518 | Finnish Wikipedia — modern encyclopedic prose | [fiwiki.xml.bz2](https://dumps.wikimedia.org/fiwiki/latest/fiwiki-latest-pages-articles.xml.bz2) |
-| `gut` | 109,200,018 | Project Gutenberg Finnish, 3,681 texts | [gutenberg-fi](https://www.gutenberg.org/cache/epub/feeds/pg_catalog.csv) |
-| `ia` | 17,039,108 | Internet Archive Finnish books — literature, and the register a newspaper never reaches | [archive-fi](https://archive.org/search?query=mediatype%3Atexts+AND+language%3A%22Finnish%22) |
-| `wikisource:fi` | 6,145,525 | Finnish Wikisource — same Wikimedia family, so it corroborates rather than counts | [fiwikisource.xml.bz2](https://dumps.wikimedia.org/fiwikisource/latest/fiwikisource-latest-pages-articles.xml.bz2) |
-| `lz:fin_newscrawl_2011_1M` | 1,122,831 | Leipzig fin_newscrawl_2011_1M — modern news, cited by the page each sentence came from | [fin_newscrawl_2011_1M](https://downloads.wortschatz-leipzig.de/corpora/fin_newscrawl_2011_1M.tar.gz) |
-| `tat` | 693,531 | Tatoeba Finnish — contemporary and conversational | [fin_sentences.tsv](https://downloads.tatoeba.org/exports/per_language/fin/fin_sentences.tsv.bz2) |
-| `lz:fin_news_2022_1M` | 401,847 | Leipzig fin_news_2022_1M — modern news, cited by the page each sentence came from | [fin_news_2022_1M](https://downloads.wortschatz-leipzig.de/corpora/fin_news_2022_1M.tar.gz) |
-| `ebible:fin` | 120,088 | Finnish Bible — a family nothing else here belongs to | [fin_vpl.txt](https://ebible.org/Scriptures/fin_vpl.zip) |
+| `fw2` | 1,108,475,350 |  | — |
+| `wiki:fi` | 143,872,518 |  | — |
+| `gut` | 109,200,018 |  | — |
+| `ia` | 28,295,480 | Internet Archive Finnish books — literature, and the register a newspaper never reaches | [archive-fi](https://archive.org/search?query=mediatype%3Atexts+AND+language%3A%22Finnish%22) |
+| `wikisource:fi` | 6,145,525 |  | — |
+| `lz:fin_newscrawl_2011_1M` | 1,122,831 |  | — |
+| `tat` | 693,531 |  | — |
+| `lz:fin_news_2022_1M` | 401,847 |  | — |
+| `ebible:fin` | 120,088 |  | — |
 
 Totals are playable tokens after folding, not bytes. A collection missing from this table was
 never scanned; one present with no link was fetched by hand and its path is given instead.

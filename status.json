@@ -2,7 +2,7 @@
   "language": "fi",
   "built": "2026-09-22",
   "candidates": 44104,
-  "shipped": 42609,
+  "shipped": 42730,
   "ships": true,
   "decided": "2026-09-21",
   "why": "Blessed by the operator on 2026-09-21, after verifying the usability floor, the minimum-W tests and the boards it deals.",
@@ -10,7 +10,7 @@
   "conforms": true,
   "families": 7,
   "checkable": 5,
-  "knee": 5,
+  "knee": 4,
   "steps": [
     {
       "families": 1,
@@ -29,37 +29,37 @@
     {
       "families": 3,
       "added": "internetarchive",
-      "kept": 39408,
-      "share": 0.893524,
-      "gained": 39408
+      "kept": 40366,
+      "share": 0.915246,
+      "gained": 40366
     },
     {
       "families": 4,
       "added": "gutenberg",
-      "kept": 41666,
-      "share": 0.944722,
-      "gained": 2258
+      "kept": 41914,
+      "share": 0.950345,
+      "gained": 1548
     },
     {
       "families": 5,
       "added": "leipzig",
-      "kept": 42342,
-      "share": 0.960049,
-      "gained": 676
+      "kept": 42488,
+      "share": 0.963359,
+      "gained": 574
     },
     {
       "families": 6,
       "added": "tatoeba",
-      "kept": 42608,
-      "share": 0.96608,
-      "gained": 266
+      "kept": 42730,
+      "share": 0.968846,
+      "gained": 242
     },
     {
       "families": 7,
       "added": "ebible",
-      "kept": 42609,
-      "share": 0.966103,
-      "gained": 1
+      "kept": 42730,
+      "share": 0.968846,
+      "gained": 0
     }
   ]
 }
